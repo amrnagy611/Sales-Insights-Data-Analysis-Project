@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=WuBcTJnIuzo
 
 1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
 ### Dashboard Report
-https://app.powerbi.com/groups/me/reports/83b59a1b-dafd-4f06-a76a-8faae642f2da?experience=power-bi
+https://app.powerbi.com/reportEmbed?reportId=83b59a1b-dafd-4f06-a76a-8faae642f2da&autoAuth=true&ctid=b994aef6-35a1-414c-a3a8-d71709f2d8a5
 
 ### Data Analysis Using SQL
 
